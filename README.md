@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+## 오르미 5기 조준호
 <!--
 **whwnsgh0258/whwnsgh0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
