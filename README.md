@@ -2,6 +2,9 @@
 - [blog](https://whwnsgh0258.github.io/weniv_blog/)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwnsgh0258)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwnsgh0258&layout=compact)
+
 <!--
 **whwnsgh0258/whwnsgh0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
