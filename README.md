@@ -1,5 +1,5 @@
 ## Hi there 👋
-- [blog](https://whwnsgh0258.github.io/weniv_blog/)
+- [blog](https://whwnsgh0258.github.io)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwnsgh0258)](https://github.com/anuraghazra/github-readme-stats)
 
