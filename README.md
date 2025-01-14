@@ -1,9 +1,16 @@
-## Hi there 👋
-- [blog](https://whwnsgh0258.github.io)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwnsgh0258)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwnsgh0258&layout=compact)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=JOJUNHO&fontSize=90)
+
+## Tech Skill
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whwnsgh0258&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Stats](https://raw.githubusercontent.com/whwnsgh0258/github-stats-transparent/output/generated/overview.svg)
+![GitHub Stats](https://raw.githubusercontent.com/whwnsgh0258/github-stats-transparent/output/generated/languages.svg)
+
+- **블로그**: [blog](https://whwnsgh0258.github.io)
+- **연락처**: 010-9767-6660
+- **Email**: Junhojo403@gmail.com
 
 <!--
 **whwnsgh0258/whwnsgh0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
