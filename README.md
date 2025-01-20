@@ -1,7 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=JOJUNHO&fontSize=90)
 
-## Tech Skill
+## BeakJun Tier
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhojo403)](https://solved.ac/junhojo403)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whwnsgh0258&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
